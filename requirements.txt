@@ -6,3 +6,4 @@ openpyxl
 requests
 numpy
 dotenv
+zstandard
