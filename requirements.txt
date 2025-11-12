@@ -1,0 +1,8 @@
+streamlit
+aiohttp
+nest_asyncio
+pandas
+openpyxl
+requests
+numpy
+dotenv
